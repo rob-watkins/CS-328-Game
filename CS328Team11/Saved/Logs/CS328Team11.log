@@ -720,3 +720,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-05.12.19:510][388]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne80C33FDD49BFF8D014395E983764EEB6.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.19-05.12.19:597][388]LogFileHelpers: Saving map 'LevelOne' took 0.426
 [2019.11.19-05.12.20:724][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.16.41:230][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.16.42:435][ 84]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.19-05.16.49:460][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.16.51:736][330]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.19-05.17.13:156][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.17.33:647][576]LogActorFactory: Actor Factory created SM_Door
+[2019.11.19-05.17.36:832][676]LogActorFactory: Actor Factory created SM_Door
+[2019.11.19-05.18.21:339][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.18.47:007][848]LogSlate: Took 0.004295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.19-05.18.48:231][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.19.40:392][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.19.50:233][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.20.29:383][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2019.11.19-05.20.30:367][859]Cmd: DELETE
+[2019.11.19-05.20.30:367][859]Cmd: ACTOR DELETE
+[2019.11.19-05.20.30:389][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.19-05.20.30:451][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.19-05.20.30:452][859]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2019.11.19-05.20.34:432][981]LogEditorViewport: Clicking on Actor (LMB): WineChar_C (WineChar)
+[2019.11.19-05.20.37:341][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.20.38:171][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.19-05.20.39:526][105]LogEditorViewport: Clicking on Actor (LMB): WineChar_C (WineChar)
+[2019.11.19-05.20.52:690][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.21.04:708][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.21.04:737][662]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-05.21.04:755][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.21.04:755][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-05.21.04:755][662]PIE: New page: PIE session: LevelOne (Nov 18, 2019, 1:21:04 PM)
+[2019.11.19-05.21.04:755][662]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.21.04:795][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039224s)
+[2019.11.19-05.21.04:795][662]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.19-05.21.04:796][662]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.11.19-05.21.04:796][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.040325s)
+[2019.11.19-05.21.04:821][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.19-05.21.04:822][662]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-05.21.04:826][662]LogInit: FAudioDevice initialized.
+[2019.11.19-05.21.04:831][662]LogLoad: Game class is 'Stealth_C'
+[2019.11.19-05.21.04:833][662]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.18-21.21.04
+[2019.11.19-05.21.04:833][662]LogWorld: Bringing up level for play took: 0.001748
+[2019.11.19-05.21.04:833][662]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.19-05.21.04:835][662]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.879
+[2019.11.19-05.21.04:835][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.21.17:719][116]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.21.18:588][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.19-05.21.18:590][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.19-05.21.18:612][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.19-05.21.18:835][214]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneB9A78AEC486F9712313636BA26FD8CCC.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.11.19-05.21.18:873][214]LogFileHelpers: Saving map 'LevelOne' took 0.284
