@@ -768,3 +768,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-05.21.18:612][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2019.11.19-05.21.18:835][214]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneB9A78AEC486F9712313636BA26FD8CCC.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.19-05.21.18:873][214]LogFileHelpers: Saving map 'LevelOne' took 0.284
+[2019.11.19-05.21.47:148][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.21.47:148][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.21.47:148][444]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.21.47:149][444]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-05.21.47:225][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-05.21.47:225][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.21.47:251][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.21.47:257][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.11.19-05.21.47:267][445]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.19-05.21.58:427][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.22.06:592][ 48]LogEditorViewport: Clicking on Actor (LMB): WineChar_C (WineChar)
+[2019.11.19-05.22.21:045][379]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.22.22:151][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.19-05.22.22:155][404]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.22.22:159][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.19-05.22.22:178][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.19-05.22.22:374][404]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneFBAB115644FD6D8DDAE4EABE7AF2946D.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.11.19-05.22.22:400][404]LogFileHelpers: Saving map 'LevelOne' took 0.242
