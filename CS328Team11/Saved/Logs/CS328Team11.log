@@ -786,3 +786,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-05.22.22:178][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2019.11.19-05.22.22:374][404]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneFBAB115644FD6D8DDAE4EABE7AF2946D.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.19-05.22.22:400][404]LogFileHelpers: Saving map 'LevelOne' took 0.242
+[2019.11.19-05.23.22:515][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.23.22:662][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-05.23.22:678][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.23.22:678][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-05.23.22:678][400]PIE: New page: PIE session: LevelOne (Nov 18, 2019, 1:23:22 PM)
+[2019.11.19-05.23.22:678][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.23.22:715][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036384s)
+[2019.11.19-05.23.22:716][400]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.19-05.23.22:716][400]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2019.11.19-05.23.22:716][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.037560s)
+[2019.11.19-05.23.22:737][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.19-05.23.22:738][400]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-05.23.22:741][400]LogInit: FAudioDevice initialized.
+[2019.11.19-05.23.22:749][400]LogLoad: Game class is 'Stealth_C'
+[2019.11.19-05.23.22:752][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.18-21.23.22
+[2019.11.19-05.23.22:752][400]LogWorld: Bringing up level for play took: 0.001728
+[2019.11.19-05.23.22:752][400]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.11.19-05.23.22:753][400]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.797
+[2019.11.19-05.23.22:754][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.04:458][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.04:458][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.24.04:458][864]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.24.04:458][864]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-05.24.04:538][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-05.24.04:539][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.04:562][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.24.04:566][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.19-05.24.04:576][865]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.19-05.24.21:799][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.24.21:865][403]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-05.24.21:880][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.21:880][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-05.24.21:880][403]PIE: New page: PIE session: LevelOne (Nov 18, 2019, 1:24:21 PM)
+[2019.11.19-05.24.21:880][403]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.24.21:918][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036974s)
+[2019.11.19-05.24.21:918][403]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.19-05.24.21:919][403]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2019.11.19-05.24.21:919][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.038187s)
+[2019.11.19-05.24.21:940][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.19-05.24.21:941][403]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-05.24.21:944][403]LogInit: FAudioDevice initialized.
+[2019.11.19-05.24.21:952][403]LogLoad: Game class is 'Stealth_C'
+[2019.11.19-05.24.21:955][403]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.18-21.24.21
+[2019.11.19-05.24.21:955][403]LogWorld: Bringing up level for play took: 0.002243
+[2019.11.19-05.24.21:955][403]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.19-05.24.21:957][403]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.001
+[2019.11.19-05.24.21:957][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.53:223][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.53:223][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.24.53:223][495]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.11.19-05.24.53:223][495]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-05.24.53:298][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-05.24.53:298][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.19-05.24.53:321][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-05.24.53:324][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.19-05.24.53:333][496]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.19-05.25.40:242][923]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush18)
+[2019.11.19-05.26.40:747][673]Cmd: TRANSACTION UNDO
+[2019.11.19-05.26.40:747][673]LogEditorTransaction: Undo Move Actors
+[2019.11.19-05.26.43:644][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.26.53:082][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.26.56:253][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.27.03:987][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.27.08:557][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-05.27.14:028][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.19-05.27.18:008][712]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.27.19:258][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.19-05.27.19:263][746]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-05.27.19:269][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.19-05.27.19:291][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.19-05.27.19:531][746]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne65484A83474D0D4BB0980D9779F1535C.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.11.19-05.27.19:585][746]LogFileHelpers: Saving map 'LevelOne' took 0.317
