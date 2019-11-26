@@ -1559,4 +1559,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-05.22.22:178][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2019.11.19-05.22.22:374][404]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneFBAB115644FD6D8DDAE4EABE7AF2946D.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.19-05.22.22:400][404]LogFileHelpers: Saving map 'LevelOne' took 0.242
+<<<<<<< HEAD
+>>>>>>> parent of 67a5b4b... aisle arrangment imrpoved
+=======
 >>>>>>> parent of 67a5b4b... aisle arrangment imrpoved
