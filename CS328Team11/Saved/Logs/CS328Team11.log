@@ -808,3 +808,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-04.15.51:327][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2019.11.26-04.15.51:501][598]LogSavePackage: Moving '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne47CDEE7A4E40605E1ADB5FB119F7E873.tmp' to '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.26-04.15.51:553][598]LogFileHelpers: Saving map 'LevelOne' took 0.248
+[2019.11.26-04.16.02:690][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.16.18:143][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.16.22:373][229]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush97)
+[2019.11.26-04.16.27:493][375]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush100)
+[2019.11.26-04.16.35:432][602]Cmd: TRANSACTION UNDO
+[2019.11.26-04.16.35:432][602]LogEditorTransaction: Undo Move Actors
+[2019.11.26-04.16.44:387][910]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush95)
+[2019.11.26-04.17.14:402][806]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush108)
+[2019.11.26-04.17.20:200][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.17.28:604][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.17.39:405][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.17.45:061][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.18.09:789][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.18.16:936][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.18.25:870][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.26-04.18.47:497][493]Cmd: DELETE
+[2019.11.26-04.18.47:497][493]Cmd: ACTOR DELETE
+[2019.11.26-04.18.47:516][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:517][493]LogEditorActor: Deleted Actor: Brush
+[2019.11.26-04.18.47:571][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.26-04.18.47:623][493]LogEditorActor: Deleted 9 Actors (0.125 secs)
+[2019.11.26-04.19.07:145][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-04.19.08:204][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.26-04.19.08:209][193]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-04.19.08:212][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.26-04.19.08:234][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.26-04.19.08:482][193]LogSavePackage: Moving '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne36B434A24CBFBAF3C965CF93A48006E7.tmp' to '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.11.26-04.19.08:535][193]LogFileHelpers: Saving map 'LevelOne' took 0.323
