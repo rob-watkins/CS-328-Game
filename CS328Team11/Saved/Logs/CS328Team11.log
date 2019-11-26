@@ -792,3 +792,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-04.13.40:692][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2019.11.26-04.13.40:864][244]LogSavePackage: Moving '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneEDE2FDC647A58A99D3E920A9CF5562DE.tmp' to '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.11.26-04.13.40:919][244]LogFileHelpers: Saving map 'LevelOne' took 0.253
+[2019.11.26-04.14.05:337][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.14.23:869][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.14.29:405][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.14.45:609][535]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush82)
+[2019.11.26-04.15.05:766][139]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush59)
+[2019.11.26-04.15.10:612][279]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush47)
+[2019.11.26-04.15.25:311][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.15.30:464][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.15.37:449][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-04.15.49:733][416]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-04.15.51:297][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.26-04.15.51:302][598]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-04.15.51:306][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.26-04.15.51:327][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.26-04.15.51:501][598]LogSavePackage: Moving '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne47CDEE7A4E40605E1ADB5FB119F7E873.tmp' to '../../../../../../Users/ekish/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.11.26-04.15.51:553][598]LogFileHelpers: Saving map 'LevelOne' took 0.248
