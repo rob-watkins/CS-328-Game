@@ -1130,3 +1130,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-03.17.20:166][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2019.12.03-03.17.20:387][197]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne24098DC04758F5A31DE4A291B9F37603.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.12.03-03.17.20:415][197]LogFileHelpers: Saving map 'LevelOne' took 0.276
+[2019.12.03-03.17.26:777][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.17.30:459][332]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.17.30:475][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.30:475][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-03.17.30:475][332]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:17:30 AM)
+[2019.12.03-03.17.30:475][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.17.30:500][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024169s)
+[2019.12.03-03.17.30:500][332]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.17.30:501][332]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2019.12.03-03.17.30:501][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.025108s)
+[2019.12.03-03.17.30:535][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.03-03.17.30:536][332]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.17.30:539][332]LogInit: FAudioDevice initialized.
+[2019.12.03-03.17.30:544][332]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.17.30:546][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.17.30
+[2019.12.03-03.17.30:547][332]LogWorld: Bringing up level for play took: 0.002302
+[2019.12.03-03.17.30:547][332]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.03-03.17.30:549][332]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.091
+[2019.12.03-03.17.30:549][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.34:992][485]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.17.37:903][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.37:903][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.17.37:903][581]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.17.37:903][581]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.17.37:986][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.17.37:986][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.38:016][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.17.38:020][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.03-03.17.38:041][582]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.03-03.17.41:754][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.17.48:041][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.17.49:556][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.18.02:974][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.18.13:672][597]Cmd: TRANSACTION UNDO
+[2019.12.03-03.18.13:672][597]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.03-03.18.14:416][619]Cmd: TRANSACTION UNDO
+[2019.12.03-03.18.14:417][619]LogEditorTransaction: Undo Edit Brush Type
+[2019.12.03-03.18.15:524][647]Cmd: TRANSACTION UNDO
+[2019.12.03-03.18.15:524][647]LogEditorTransaction: Undo Edit Brush Type
+[2019.12.03-03.18.25:604][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.18.29:191][ 56]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush87)
+[2019.12.03-03.18.40:892][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.18.57:716][729]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.03-03.19.03:522][847]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/shelf.shelf
+[2019.12.03-03.19.23:722][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.19.27:986][345]Cmd: EDIT COPY
+[2019.12.03-03.19.45:953][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.19.51:326][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.19.57:904][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.03-03.20.39:388][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.20.48:132][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.20.52:035][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.21.01:012][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.21.18:246][974]Cmd: DELETE
+[2019.12.03-03.21.18:246][974]Cmd: ACTOR DELETE
+[2019.12.03-03.21.18:255][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:256][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:257][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:257][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:257][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:258][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:258][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:258][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:258][974]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.18:297][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.03-03.21.18:325][974]LogEditorActor: Deleted 9 Actors (0.078 secs)
+[2019.12.03-03.21.19:648][ 16]Cmd: DELETE
+[2019.12.03-03.21.19:648][ 16]Cmd: ACTOR DELETE
+[2019.12.03-03.21.19:655][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:656][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:656][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:657][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:657][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:657][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:658][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:658][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:658][ 16]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.19:691][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.03-03.21.19:718][ 16]LogEditorActor: Deleted 9 Actors (0.069 secs)
+[2019.12.03-03.21.20:405][ 38]Cmd: DELETE
+[2019.12.03-03.21.20:405][ 38]Cmd: ACTOR DELETE
+[2019.12.03-03.21.20:411][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:412][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:412][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:413][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:413][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:413][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:414][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:414][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:414][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.20:449][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.03-03.21.20:471][ 38]LogEditorActor: Deleted 9 Actors (0.067 secs)
+[2019.12.03-03.21.21:675][ 77]Cmd: DELETE
+[2019.12.03-03.21.21:675][ 77]Cmd: ACTOR DELETE
+[2019.12.03-03.21.21:682][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:683][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:683][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:684][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:684][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:684][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:685][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:685][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:685][ 77]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.21:717][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.03-03.21.21:737][ 77]LogEditorActor: Deleted 9 Actors (0.061 secs)
+[2019.12.03-03.21.22:538][103]Cmd: DELETE
+[2019.12.03-03.21.22:538][103]Cmd: ACTOR DELETE
+[2019.12.03-03.21.22:544][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:544][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:545][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:545][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:546][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:546][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:547][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:547][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:547][103]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.22:582][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.03-03.21.22:600][103]LogEditorActor: Deleted 9 Actors (0.062 secs)
+[2019.12.03-03.21.24:942][180]Cmd: DELETE
+[2019.12.03-03.21.24:942][180]Cmd: ACTOR DELETE
+[2019.12.03-03.21.24:948][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:948][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:949][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:949][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:950][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:950][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:950][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:951][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:951][180]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.24:984][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.03-03.21.24:999][180]LogEditorActor: Deleted 9 Actors (0.057 secs)
+[2019.12.03-03.21.26:020][213]Cmd: DELETE
+[2019.12.03-03.21.26:020][213]Cmd: ACTOR DELETE
+[2019.12.03-03.21.26:025][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:026][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:026][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:027][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:027][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:028][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:028][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:028][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:028][213]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:062][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.03-03.21.26:075][213]LogEditorActor: Deleted 9 Actors (0.056 secs)
+[2019.12.03-03.21.26:976][243]Cmd: DELETE
+[2019.12.03-03.21.26:976][243]Cmd: ACTOR DELETE
+[2019.12.03-03.21.26:981][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:982][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:982][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:983][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:983][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:984][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:984][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:984][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.26:985][243]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.21.27:020][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.03-03.21.27:029][243]LogEditorActor: Deleted 9 Actors (0.052 secs)
+[2019.12.03-03.21.30:279][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.21.36:336][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.21.43:470][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.22.22:105][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.22.24:283][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.22.28:625][519]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.22.36:779][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.23.24:063][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.24.27:037][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.24.27:587][747]LogEditorTransaction: Undo Add Component
+[2019.12.03-03.24.53:344][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.25.20:950][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.25.34:486][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.25.44:367][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.25.54:699][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.26.16:967][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.26.30:377][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.26.57:395][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.27.16:100][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.27.24:470][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.28.13:497][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.28.16:004][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-03.28.27:855][686]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.28.27:883][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/shelf" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset" SILENT=true
+[2019.12.03-03.28.27:901][686]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/shelf6D8966E0442E631761E01DAF11A3CF27.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset'
+[2019.12.03-03.29.03:278][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.29.25:523][190]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.29.25:550][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/shelf" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset" SILENT=true
+[2019.12.03-03.29.25:574][190]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/shelfC3FFC7EA4983F3448CFECA97C5563772.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset'
+[2019.12.03-03.29.25:711][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.29.25:748][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.03-03.29.25:907][192]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne79E895F644DAAD18D883EC97305C3E68.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.29.25:951][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.03-03.29.25:967][192]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltDataA1B73BE642A875A04BCCEF83592FC83D.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.03-03.29.28:800][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
