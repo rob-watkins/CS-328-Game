@@ -739,3 +739,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-04.37.33:674][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2019.12.03-04.37.33:838][898]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne783C63D64DD4C47679C9719E1DF6F0AB.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.12.03-04.37.33:876][898]LogFileHelpers: Saving map 'LevelOne' took 0.227
+[2019.12.03-04.38.21:690][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-04.38.23:147][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
