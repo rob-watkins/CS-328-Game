@@ -787,3 +787,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-03.06.18:490][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2019.12.03-03.06.18:622][ 13]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne778A17134CA4ED1D52DF8B82539CE4AF.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.12.03-03.06.18:666][ 13]LogFileHelpers: Saving map 'LevelOne' took 0.199
+[2019.12.03-03.06.34:072][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.06.37:276][201]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush74)
+[2019.12.03-03.06.38:692][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.06.42:216][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.05:968][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.10:148][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.26:196][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.30:204][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.58:390][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.04:375][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.08:617][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.13:572][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.26:685][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.31:980][757]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-03.08.42:080][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.45:730][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.05:816][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.09:247][907]Cmd: TRANSACTION UNDO
+[2019.12.03-03.09.09:247][907]LogEditorTransaction: Undo Move Actors
+[2019.12.03-03.09.16:132][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.28:810][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.50:218][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-03.10.29:644][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-03.11.12:271][567]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.11.12:303][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.11.12:335][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.03-03.11.12:530][567]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne2F7F065143FD5D359154759A5CEDA10E.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.11.12:583][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.03-03.11.12:601][567]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltData74959A6B4D9E445D84E37F90D08950ED.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.03-03.11.14:325][618]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.11.15:361][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
