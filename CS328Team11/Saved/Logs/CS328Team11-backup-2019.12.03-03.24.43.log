@@ -1,0 +1,1132 @@
+﻿Log file open, 12/02/19 19:03:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CS328Team11
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.061028
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1709) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=emraldguy889 -epicuserid=d196050b44f94227b1fa9d007c2fcbf7 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:614][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:616][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-03.03.01:616][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-03.03.01:617][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-03.03.01:617][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-03.03.01:617][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-03.03.01:619][  0]LogHAL: Display: Platform has ~ 32 GB [34233085952 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-03.03.01:619][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-03.03.01:619][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:619][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-03.03.01:620][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Config/Windows/Engine.ini]
+[2019.12.03-03.03.01:621][  0]LogInit: Computer: DMSLAB36
+[2019.12.03-03.03.01:621][  0]LogInit: User: hhira
+[2019.12.03-03.03.01:621][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.03-03.03.01:621][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2019.12.03-03.03.01:621][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.03-03.03.01:621][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-03.03.01:621][  0]LogMemory: Process Physical Memory: 103.13 MB used, 103.13 MB peak
+[2019.12.03-03.03.01:621][  0]LogMemory: Process Virtual Memory: 100.42 MB used, 100.42 MB peak
+[2019.12.03-03.03.01:621][  0]LogMemory: Physical Memory: 8495.82 MB used,  24151.40 MB free, 32647.21 MB total
+[2019.12.03-03.03.01:621][  0]LogMemory: Virtual Memory: 584.31 MB used,  134217144.00 MB free, 134217728.00 MB total
+[2019.12.03-03.03.01:623][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.03-03.03.01:638][  0]LogInit: Using OS detected language (en-US).
+[2019.12.03-03.03.01:638][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.03-03.03.01:638][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.03-03.03.01:786][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-03.03.01:810][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-03.03.01:810][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-03.03.01:930][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-03.03.01:930][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-03.03.01:940][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.03-03.03.01:940][  0]LogD3D11RHI:       128/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.03-03.03.01:942][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-03.03.01:942][  0]LogD3D11RHI:       0/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-03.03.01:942][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-03.03.01:947][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-03.03.01:947][  0]LogD3D11RHI:     GPU DeviceId: 0x5912 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-03.03.01:947][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-03.03.01:948][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.03-03.03.01:948][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.03-03.03.01:948][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.03-03.03.01:948][  0]LogWindows:    3. 'Freedom Scientific Accessibility Display Driver' (P:0 D:0)
+[2019.12.03-03.03.01:948][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2019.12.03-03.03.01:948][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 630
+[2019.12.03-03.03.01:948][  0]LogD3D11RHI:   Driver Version: 23.20.16.4849 (internal:23.20.16.4849, unified:23.20.16.4849)
+[2019.12.03-03.03.01:948][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.12.03-03.03.01:949][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.12.03-03.03.01:955][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-03.03.01:966][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.03-03.03.02:182][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-03.03.02:188][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-03.03.02:195][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-03.03.02:201][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-03.03.02:211][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-03.03.02:217][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-03.03.02:224][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-03.03.02:230][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-03.03.02:233][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-03.03.02:260][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-03.03.02:261][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-03.03.02:276][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-03.03.02:276][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-03.03.02:286][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-03.03.02:286][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-03.03.02:291][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-03.03.02:296][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-03.03.02:301][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-03.03.02:309][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-03.03.02:326][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-03.03.02:326][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-03.03.02:326][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-03.03.02:333][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-03.03.02:366][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Intermediate/Shaders/WorkingDirectory/6820/).
+[2019.12.03-03.03.02:366][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hhira/AppData/Local/Temp/UnrealShaderWorkingDir/9E50CAD34A4CD3181B139094DBCC05D2/'.
+[2019.12.03-03.03.02:368][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.03-03.03.02:368][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.03-03.03.02:368][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.03-03.03.02:874][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-03.03.02:916][  0]LogDerivedDataCache: Loaded boot cache 0.04s 74MB C:/Users/hhira/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-03.03.02:916][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hhira/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.03-03.03.02:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-03.03.02:917][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-03.03.02:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-03.03.02:917][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-03.03.02:926][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-03.03.02:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-03.03.02:926][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-03.03.02:927][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hhira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-03.03.02:927][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-03.03.02:927][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-03.03.02:947][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-03.03.02:949][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-03.03.02:950][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-03.03.03:004][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.12.03-03.03.03:257][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-03.03.03:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-03.03.03:375][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-03.03.03:375][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-03.03.03:375][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-03.03.03:375][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-03.03.03:382][  0]LogNetVersion: CS328Team11 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2400628328)
+[2019.12.03-03.03.03:772][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.039011 seconds
+[2019.12.03-03.03.03:779][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.03-03.03.03:779][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.03-03.03.03:779][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-03.03.04:427][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-03.03.04:429][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-03.03.04:468][  0]SourceControl: Source control is disabled
+[2019.12.03-03.03.04:468][  0]SourceControl: Source control is disabled
+[2019.12.03-03.03.04:469][  0]SourceControl: Source control is disabled
+[2019.12.03-03.03.04:470][  0]SourceControl: Source control is disabled
+[2019.12.03-03.03.04:530][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-03.03.04:591][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-03.03.04:596][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.03-03.03.04:596][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.03-03.03.04:650][  0]LogEngine: Initializing Engine...
+[2019.12.03-03.03.04:651][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-03.03.04:651][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.03-03.03.04:828][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-03.03.04:845][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-03.03.04:850][  0]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.03.05:000][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-03.03.05:000][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-03.03.05:043][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/hhira/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-03.03.05:048][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-03.03.05:060][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-03.03.05:060][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.03-03.03.05:060][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.03-03.03.05:106][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-03.03.05:128][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-03.03.05:183][  0]LocalizationService: Localization service is disabled
+[2019.12.03-03.03.05:357][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/' took 0.00s
+[2019.12.03-03.03.05:357][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-03.03.05:357][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.03-03.03.05:481][  0]SourceControl: Source control is disabled
+[2019.12.03-03.03.05:482][  0]Cmd: MAP LOAD FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-03.03.05:482][  0]LightingResults: New page: Lighting Build
+[2019.12.03-03.03.05:484][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.03.05:484][  0]MapCheck: New page: Map Check
+[2019.12.03-03.03.05:484][  0]LightingResults: New page: Lighting Build
+[2019.12.03-03.03.05:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_master_texture (AutoDXT, 128X128)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_master_normal (BC5, 128X128)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_master_gloss (AutoDXT, 128X128)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_manuel_rigged_001_mask02 (AutoDXT, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_manuel_rigged_001_mask01 (AutoDXT, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: cabbage_gloss (AutoDXT, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: cabbage_Normal_bump (BC5, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: cabbage_diff (AutoDXT, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_manuel_rigged_001_gloss (AutoDXT, 2048X2048)
+[2019.12.03-03.03.06:640][  0]LogTexture: Display: Building textures: rp_manuel_rigged_001_norm (BC5, 4096X4096)
+[2019.12.03-03.03.06:640][  0]LogMaterial: Display: Missing cached shader map for material RP_Rigged_MasterMaterial, compiling. 
+[2019.12.03-03.03.13:142][  0]LogTexture: Display: Building textures: rp_manuel_rigged_001_dif (AutoDXT, 4096X4096)
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 99
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 89
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 59
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2019.12.03-03.03.13:142][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-03.03.13:142][  0]LogSkeletalMesh: Building Skeletal Mesh rp_manuel_rigged_001_ue4...
+[2019.12.03-03.03.13:199][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Scanned3DPeoplePack/RP_Character/rp_manuel_rigged_001_ue4/rp_manuel_rigged_001_ue4.rp_manuel_rigged_001_ue4
+[2019.12.03-03.03.13:218][  0]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.12.03-03.03.13:233][  0]LogStaticMesh: Building static mesh cabbage...
+[2019.12.03-03.03.13:884][  0]LogStaticMesh: Built static mesh [0.65s] /Game/Models/cabbage/cabbage.cabbage
+[2019.12.03-03.03.13:984][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2019.12.03-03.03.13:984][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Scanned3DPeoplePack/RP_Character/00_Animations/rp_sophia_animated_003_idling_ue4.rp_sophia_animated_003_idling_ue4
+[2019.12.03-03.03.13:985][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Scanned3DPeoplePack/RP_Character/00_Animations/rp_sophia_animated_003_idling_ue4.rp_sophia_animated_003_idling_ue4) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.03-03.03.14:005][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Scanned3DPeoplePack/RP_Character/00_Animations/rp_nathan_animated_003_walking_ue4.rp_nathan_animated_003_walking_ue4
+[2019.12.03-03.03.14:005][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Scanned3DPeoplePack/RP_Character/00_Animations/rp_nathan_animated_003_walking_ue4.rp_nathan_animated_003_walking_ue4) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.03-03.03.14:082][  0]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.03.14:109][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-03.03.14:346][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.03-03.03.14:346][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-03.03.14:346][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.12.03-03.03.14:346][  0]LogFileHelpers: Loading map 'LevelOne' took 8.865
+[2019.12.03-03.03.14:521][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.03-03.03.14:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.03.14:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.03.14:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.03.14:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.03.14:570][  0]LogCollectionManager: Loaded 0 collections in 0.002032 seconds
+[2019.12.03-03.03.14:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Collections/' took 0.00s
+[2019.12.03-03.03.14:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Developers/hhira/Collections/' took 0.00s
+[2019.12.03-03.03.14:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Collections/' took 0.00s
+[2019.12.03-03.03.14:592][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.03-03.03.14:604][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2863 classes and 680 folders.
+[2019.12.03-03.03.14:616][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.03-03.03.14:680][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.03-03.03.14:691][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.03-03.03.14:755][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-03.03.14:757][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-03.03.14:768][  0]LogSlate: Took 0.006382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-03.03.14:943][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-03.03.16:713][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 34
+[2019.12.03-03.03.16:713][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.12.03-03.03.16:713][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.03-03.03.16:713][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.03.16:728][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.03-03.03.16:739][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.03-03.03.16:739][  0]LogLoad: (Engine Initialization) Total time: 15.77 seconds
+[2019.12.03-03.03.16:739][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.03-03.03.16:748][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.03-03.03.16:796][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.03-03.03.16:796][  0]LogAssetRegistry: Asset discovery search completed in 13.7925 seconds
+[2019.12.03-03.03.16:801][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.03-03.03.16:801][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.12.03-03.03.16:810][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.03-03.03.16:846][  0]LogSlate: Took 0.006117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-03.03.17:039][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.12.03-03.03.17:267][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.12.03-03.03.17:712][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.12.03-03.03.17:793][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.03-03.03.18:436][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.03-03.03.18:614][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.03-03.04.00:529][310]Cmd: DELETE
+[2019.12.03-03.04.00:529][310]Cmd: ACTOR DELETE
+[2019.12.03-03.04.00:555][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:558][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:558][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:558][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:558][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:559][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:559][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:559][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:559][310]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.00:583][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.03-03.04.00:636][310]LogEditorActor: Deleted 9 Actors (0.104 secs)
+[2019.12.03-03.04.01:796][344]Cmd: DELETE
+[2019.12.03-03.04.01:796][344]Cmd: ACTOR DELETE
+[2019.12.03-03.04.01:806][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:807][344]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.01:831][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.03-03.04.01:880][344]LogEditorActor: Deleted 9 Actors (0.084 secs)
+[2019.12.03-03.04.03:263][386]Cmd: DELETE
+[2019.12.03-03.04.03:263][386]Cmd: ACTOR DELETE
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:276][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:277][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:277][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:277][386]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.03:305][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.12.03-03.04.03:352][386]LogEditorActor: Deleted 9 Actors (0.089 secs)
+[2019.12.03-03.04.11:430][636]Cmd: DELETE
+[2019.12.03-03.04.11:430][636]Cmd: ACTOR DELETE
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:441][636]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.11:466][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.03-03.04.11:510][636]LogEditorActor: Deleted 9 Actors (0.080 secs)
+[2019.12.03-03.04.17:524][822]Cmd: DELETE
+[2019.12.03-03.04.17:524][822]Cmd: ACTOR DELETE
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:534][822]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.17:559][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.03-03.04.17:598][822]LogEditorActor: Deleted 9 Actors (0.073 secs)
+[2019.12.03-03.04.18:673][854]Cmd: DELETE
+[2019.12.03-03.04.18:673][854]Cmd: ACTOR DELETE
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:682][854]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.18:706][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.03-03.04.18:744][854]LogEditorActor: Deleted 9 Actors (0.071 secs)
+[2019.12.03-03.04.19:701][883]Cmd: DELETE
+[2019.12.03-03.04.19:701][883]Cmd: ACTOR DELETE
+[2019.12.03-03.04.19:710][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:711][883]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.19:735][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.03-03.04.19:769][883]LogEditorActor: Deleted 9 Actors (0.068 secs)
+[2019.12.03-03.04.20:728][912]Cmd: DELETE
+[2019.12.03-03.04.20:728][912]Cmd: ACTOR DELETE
+[2019.12.03-03.04.20:736][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:736][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:736][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:737][912]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.20:762][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.03-03.04.20:793][912]LogEditorActor: Deleted 9 Actors (0.065 secs)
+[2019.12.03-03.04.21:592][936]Cmd: DELETE
+[2019.12.03-03.04.21:592][936]Cmd: ACTOR DELETE
+[2019.12.03-03.04.21:600][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:600][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:600][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:601][936]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.21:627][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.03-03.04.21:655][936]LogEditorActor: Deleted 9 Actors (0.063 secs)
+[2019.12.03-03.04.22:472][961]Cmd: DELETE
+[2019.12.03-03.04.22:472][961]Cmd: ACTOR DELETE
+[2019.12.03-03.04.22:480][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:480][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:480][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:481][961]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.22:506][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.03-03.04.22:528][961]LogEditorActor: Deleted 9 Actors (0.055 secs)
+[2019.12.03-03.04.23:413][988]Cmd: DELETE
+[2019.12.03-03.04.23:414][988]Cmd: ACTOR DELETE
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:421][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:422][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:422][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:422][988]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.23:449][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.03-03.04.23:471][988]LogEditorActor: Deleted 9 Actors (0.057 secs)
+[2019.12.03-03.04.24:347][ 15]Cmd: DELETE
+[2019.12.03-03.04.24:347][ 15]Cmd: ACTOR DELETE
+[2019.12.03-03.04.24:359][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:359][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:359][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:359][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:360][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:360][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:360][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:360][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:360][ 15]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.04.24:385][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.03-03.04.24:403][ 15]LogEditorActor: Deleted 9 Actors (0.055 secs)
+[2019.12.03-03.04.34:668][343]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.04.35:683][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.03-03.04.35:690][460]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-03.04.35:692][460]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.04.35:697][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.04.35:719][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.03-03.04.35:883][460]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne966535534A4FB4036094C4B2740577A5.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.04.35:932][460]LogFileHelpers: Saving map 'LevelOne' took 0.236
+[2019.12.03-03.05.01:785][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.05.08:139][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.05.28:287][ 67]Cmd: DELETE
+[2019.12.03-03.05.28:287][ 67]Cmd: ACTOR DELETE
+[2019.12.03-03.05.28:295][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:295][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:296][ 67]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.28:324][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.12.03-03.05.28:341][ 67]LogEditorActor: Deleted 9 Actors (0.054 secs)
+[2019.12.03-03.05.29:392][100]Cmd: DELETE
+[2019.12.03-03.05.29:392][100]Cmd: ACTOR DELETE
+[2019.12.03-03.05.29:397][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:398][100]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-03.05.29:423][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.03-03.05.29:435][100]LogEditorActor: Deleted 9 Actors (0.043 secs)
+[2019.12.03-03.05.31:905][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.05.40:030][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.06.12:001][413]Cmd: TRANSACTION UNDO
+[2019.12.03-03.06.12:001][413]LogEditorTransaction: Undo Move Actors
+[2019.12.03-03.06.14:617][563]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.06.18:459][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.03-03.06.18:464][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.06.18:467][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.06.18:490][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.03-03.06.18:622][ 13]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne778A17134CA4ED1D52DF8B82539CE4AF.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.06.18:666][ 13]LogFileHelpers: Saving map 'LevelOne' took 0.199
+[2019.12.03-03.06.34:072][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.06.37:276][201]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush74)
+[2019.12.03-03.06.38:692][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.06.42:216][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.05:968][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.10:148][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.26:196][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.30:204][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.07.58:390][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.04:375][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.08:617][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.13:572][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.26:685][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.31:980][757]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-03.08.42:080][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.08.45:730][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.05:816][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.09:247][907]Cmd: TRANSACTION UNDO
+[2019.12.03-03.09.09:247][907]LogEditorTransaction: Undo Move Actors
+[2019.12.03-03.09.16:132][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.28:810][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.09.50:218][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-03.10.29:644][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-03.11.12:271][567]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.11.12:303][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.11.12:335][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.03-03.11.12:530][567]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne2F7F065143FD5D359154759A5CEDA10E.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.11.12:583][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.03-03.11.12:601][567]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltData74959A6B4D9E445D84E37F90D08950ED.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.03-03.11.14:325][618]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.11.15:361][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.03-03.11.27:841][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.11.32:980][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.11.33:047][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.11.33:070][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.11.33:070][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-03.11.33:074][947]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:11:33 AM)
+[2019.12.03-03.11.33:074][947]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.03-03.11.33:076][947]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.11.33:095][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018970s)
+[2019.12.03-03.11.33:096][947]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.11.33:097][947]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2019.12.03-03.11.33:097][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.020620s)
+[2019.12.03-03.11.33:117][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.03-03.11.33:120][947]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.11.33:123][947]LogInit: FAudioDevice initialized.
+[2019.12.03-03.11.33:134][947]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.11.33:141][947]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.11.33
+[2019.12.03-03.11.33:146][947]LogWorld: Bringing up level for play took: 0.006985
+[2019.12.03-03.11.33:146][947]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.03-03.11.33:154][947]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.03-03.11.33:156][947]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.7
+[2019.12.03-03.11.33:156][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.11.41:539][226]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.42:047][244]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.42:557][262]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.43:072][280]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.43:582][298]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.44:104][316]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.44:629][334]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.45:154][352]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.45:662][369]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.46:166][386]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.46:688][404]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.48:230][456]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.48:738][473]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.49:246][490]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.49:772][508]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.50:290][526]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.50:795][543]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.51:316][561]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.51:841][579]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.52:353][597]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.52:866][615]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.53:385][633]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.53:899][650]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.54:418][667]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.54:928][685]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.55:967][720]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.56:490][737]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.57:007][754]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.11.57:515][771]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.01:082][890]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.01:608][908]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.02:135][926]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.02:664][944]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.03:165][961]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.03:671][978]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.04:196][996]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.04:707][ 13]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.05:219][ 30]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.05:724][ 47]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.06:231][ 64]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.18:564][474]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.19:091][491]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.19:616][508]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.20:133][525]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.20:643][542]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.21:159][559]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.21:670][576]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.22:174][593]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.12.22:446][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.12.22:446][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.12.22:446][602]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.12.22:446][602]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.12.22:531][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.12.22:531][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.12.22:554][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.12.22:557][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.03-03.12.22:576][603]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.03-03.12.27:493][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.12.27:731][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Cabbage.Cabbage
+[2019.12.03-03.12.27:931][702]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.03-03.12.28:625][702]LogSlate: Took 0.007756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.03-03.12.28:722][703]LogSlate: Took 0.005648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-03.12.38:101][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.13.01:085][324]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.13.01:120][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabbage" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset" SILENT=true
+[2019.12.03-03.13.01:164][324]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Cabbage67A723744ADA78385310F8BFB61672D5.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset'
+[2019.12.03-03.13.01:292][326]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.13.01:296][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.13.01:331][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.03-03.13.01:536][326]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne7184A9684656E7DDEEBBC4BBD47F2F54.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.13.01:574][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.03-03.13.01:585][326]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltDataF5A8DE65400A2493059950B1EB858EEE.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.03-03.13.04:141][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.13.04:251][380]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.13.04:292][380]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.13.04:298][380]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.13.06:187][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.13.06:289][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.13.06:305][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.13.06:305][439]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-03.13.06:306][439]LogPlayLevel: [PlayLevel] Compiling Cabbage before play...
+[2019.12.03-03.13.06:467][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.03-03.13.06:467][439]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2019.12.03-03.13.06:467][439]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:13:06 AM)
+[2019.12.03-03.13.06:467][439]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.13.06:485][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018173s)
+[2019.12.03-03.13.06:486][439]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.13.06:486][439]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2019.12.03-03.13.06:486][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.019092s)
+[2019.12.03-03.13.06:510][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.12.03-03.13.06:511][439]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.13.06:517][439]LogInit: FAudioDevice initialized.
+[2019.12.03-03.13.06:527][439]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.13.06:531][439]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.13.06
+[2019.12.03-03.13.06:531][439]LogWorld: Bringing up level for play took: 0.002472
+[2019.12.03-03.13.06:531][439]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.03-03.13.06:533][439]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.077
+[2019.12.03-03.13.06:533][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.13.11:333][602]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.11:845][619]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.12:366][636]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.12:867][653]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.13:373][670]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.16:938][790]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.17:152][797]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5F2DD842-4B20-0E53-990C-F19FCB397925}
+[2019.12.03-03.13.17:450][807]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.17:978][825]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.21:087][927]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.21:612][944]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.23:684][ 12]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.24:197][ 29]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.24:704][ 46]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.25:210][ 63]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.25:727][ 80]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.26:234][ 97]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.26:745][114]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.34:500][378]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.35:003][395]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.35:524][412]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.36:024][429]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.36:547][447]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.37:070][465]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.37:591][483]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.38:108][501]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.38:619][519]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.39:148][537]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.39:675][554]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.40:187][571]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.40:696][588]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.41:201][605]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.41:728][623]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.42:245][641]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.42:761][659]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.43:266][676]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.43:791][694]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.13.43:879][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.13.43:879][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.13.43:879][697]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.13.43:879][697]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.13.43:962][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.13.43:962][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.13.43:997][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.13.44:000][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.03-03.13.44:023][698]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.03-03.14.20:901][819]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.14.37:357][328]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.14.39:506][379]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Cabbage.Cabbage
+[2019.12.03-03.14.55:127][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.15.19:123][154]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.15.19:150][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabbage" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset" SILENT=true
+[2019.12.03-03.15.19:184][154]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/Cabbage4BDBDB724AB7B91E5B0D12A5D9C6EF8E.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset'
+[2019.12.03-03.15.20:865][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.15.20:944][189]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.15.21:030][189]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.15.21:031][189]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.15.22:518][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.15.22:551][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.15.22:567][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.15.22:567][234]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-03.15.22:568][234]LogPlayLevel: [PlayLevel] Compiling Cabbage before play...
+[2019.12.03-03.15.22:738][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.03-03.15.22:738][234]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2019.12.03-03.15.22:738][234]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:15:22 AM)
+[2019.12.03-03.15.22:738][234]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.15.22:756][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017735s)
+[2019.12.03-03.15.22:757][234]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.15.22:757][234]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.12.03-03.15.22:757][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.018550s)
+[2019.12.03-03.15.22:782][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.03-03.15.22:785][234]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.15.22:788][234]LogInit: FAudioDevice initialized.
+[2019.12.03-03.15.22:798][234]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.15.22:800][234]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.15.22
+[2019.12.03-03.15.22:800][234]LogWorld: Bringing up level for play took: 0.001876
+[2019.12.03-03.15.22:800][234]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.03-03.15.22:802][234]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.345
+[2019.12.03-03.15.22:806][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.15.29:675][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.15.29:675][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.15.29:675][465]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.15.29:676][465]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.15.29:757][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.15.29:758][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.15.29:788][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.15.29:791][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.03-03.15.29:810][466]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.03-03.15.30:630][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.15.30:891][487]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Cabbage.Cabbage
+[2019.12.03-03.15.40:759][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.03:896][138]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.16.03:923][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabbage" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset" SILENT=true
+[2019.12.03-03.16.03:956][138]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/CabbageA80CF4F7474BA94610939E99DAD01493.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset'
+[2019.12.03-03.16.04:090][140]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.16.04:094][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.16.04:127][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.03-03.16.04:335][140]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneFB8CA3904E5C1F703181B3914FE31E3E.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.16.04:363][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.03-03.16.04:375][140]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltData7A7F8BCE4C838E20205A929A9690BF72.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.03-03.16.05:695][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.05:696][167]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.16.05:743][167]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.16.05:743][167]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.16.06:698][192]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.16.08:221][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.08:255][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.16.08:273][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.08:273][235]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-03.16.08:274][235]LogPlayLevel: [PlayLevel] Compiling Cabbage before play...
+[2019.12.03-03.16.08:462][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.03-03.16.08:462][235]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2019.12.03-03.16.08:462][235]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:16:08 AM)
+[2019.12.03-03.16.08:463][235]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.16.08:481][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018105s)
+[2019.12.03-03.16.08:481][235]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.16.08:481][235]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2019.12.03-03.16.08:481][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.018926s)
+[2019.12.03-03.16.08:509][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.03-03.16.08:510][235]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.16.08:513][235]LogInit: FAudioDevice initialized.
+[2019.12.03-03.16.08:522][235]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.16.08:524][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.16.08
+[2019.12.03-03.16.08:525][235]LogWorld: Bringing up level for play took: 0.001922
+[2019.12.03-03.16.08:525][235]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.03-03.16.08:526][235]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.07
+[2019.12.03-03.16.08:531][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.14:569][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.14:569][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.16.14:569][439]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.16.14:570][439]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.16.14:650][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.16.14:651][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.14:702][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.16.14:705][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.03-03.16.14:724][440]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.03-03.16.15:729][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.16:103][471]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Cabbage.Cabbage
+[2019.12.03-03.16.22:151][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.39:483][935]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.16.39:508][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabbage" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset" SILENT=true
+[2019.12.03-03.16.39:542][935]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/CabbageDA1E972E490C6844A6C9929A2A6C09D3.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/Cabbage.uasset'
+[2019.12.03-03.16.40:582][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.40:685][958]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.16.40:735][958]LogSlate: Window 'Cabbage' being destroyed
+[2019.12.03-03.16.40:735][958]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.16.41:446][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-03.16.41:479][981]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-03.16.41:494][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.41:494][981]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-03.16.41:495][981]LogPlayLevel: [PlayLevel] Compiling Cabbage before play...
+[2019.12.03-03.16.41:659][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.03-03.16.41:659][981]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2019.12.03-03.16.41:659][981]PIE: New page: PIE session: LevelOne (Dec 2, 2019, 11:16:41 AM)
+[2019.12.03-03.16.41:659][981]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.16.41:677][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017751s)
+[2019.12.03-03.16.41:677][981]LogAIModule: Creating AISystem for world LevelOne
+[2019.12.03-03.16.41:677][981]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2019.12.03-03.16.41:677][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.018548s)
+[2019.12.03-03.16.41:700][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.03-03.16.41:701][981]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-03.16.41:704][981]LogInit: FAudioDevice initialized.
+[2019.12.03-03.16.41:712][981]LogLoad: Game class is 'CabbageGameMode_C'
+[2019.12.03-03.16.41:714][981]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.12.02-19.16.41
+[2019.12.03-03.16.41:715][981]LogWorld: Bringing up level for play took: 0.001895
+[2019.12.03-03.16.41:715][981]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.03-03.16.41:716][981]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne -0.741
+[2019.12.03-03.16.41:717][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.16.48:382][205]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.48:895][223]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.50:950][292]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.51:469][309]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.51:980][326]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.53:522][377]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.54:036][394]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.16.56:102][462]LogBlueprintUserMessages: [AI_2] ai failed wth
+[2019.12.03-03.17.03:392][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.03:392][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.17.03:392][708]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2019.12.03-03.17.03:392][708]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-03.17.03:476][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-03.17.03:476][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.12.03-03.17.03:511][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-03.17.03:514][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.03-03.17.03:533][709]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.03-03.17.18:732][157]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.17.20:131][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.03-03.17.20:136][197]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-03.17.20:139][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-03.17.20:166][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.03-03.17.20:387][197]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOne24098DC04758F5A31DE4A291B9F37603.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.03-03.17.20:415][197]LogFileHelpers: Saving map 'LevelOne' took 0.276
