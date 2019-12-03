@@ -1361,23 +1361,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-03.32.01:548][118]LogOutputDevice: Error: [Callstack] 0x00007fff1874cb81 ntdll.dll!UnknownFunction []
 [2019.12.03-03.32.01:548][118]LogOutputDevice: Error: 
 [2019.12.03-03.32.01:548][118]LogStats:                SubmitErrorReport -  0.000 s
-[2019.12.03-03.32.01:858][118]LogStats:                    SendNewReport -  0.309 s
-[2019.12.03-03.32.01:858][118]LogStats:             FDebug::EnsureFailed -  0.661 s
-[2019.12.03-03.32.14:005][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.12.03-03.32.18:665][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.12.03-03.32.24:676][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.12.03-03.32.34:261][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.12.03-03.32.49:810][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.12.03-03.32.53:183][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.12.03-03.33.01:331][318]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2019.12.03-03.33.01:350][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/shelf" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset" SILENT=true
-[2019.12.03-03.33.01:366][318]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/shelf8769EC214D632A51D7E4BA98238F069F.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Blueprints/shelf.uasset'
-[2019.12.03-03.33.04:232][372]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.12.03-03.33.04:711][381]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.12.03-03.33.06:079][405]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2019.12.03-03.33.07:315][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
-[2019.12.03-03.33.07:320][428]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2019.12.03-03.33.07:327][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2019.12.03-03.33.07:354][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
-[2019.12.03-03.33.07:499][428]LogSavePackage: Moving '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Saved/LevelOneC39224CC4DEB6BF51D2A76B70293FA1E.tmp' to '../../../../../../Users/hhira/Documents/GitHub/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
-[2019.12.03-03.33.07:528][428]LogFileHelpers: Saving map 'LevelOne' took 0.201
