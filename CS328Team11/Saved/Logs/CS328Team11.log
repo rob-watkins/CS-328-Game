@@ -622,3 +622,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.12-03.21.11:805][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2019.12.12-03.21.12:994][665]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne56B83315444E51F4E1A7279DED707B6C.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
 [2019.12.12-03.21.13:025][665]LogFileHelpers: Saving map 'LevelOne' took 1.257
+[2019.12.12-03.23.13:742][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.23.33:137][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.23.44:550][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.23.46:590][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Freezer2)
+[2019.12.12-03.23.49:091][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.24.24:155][144]EditorErrors: New page: Actor attachment
+[2019.12.12-03.24.28:590][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.12-03.24.28:600][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-03.24.28:635][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.12.12-03.24.29:807][572]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne388ADCCD4C7494592332DCA09F83CFA3.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.12-03.24.29:838][572]LogFileHelpers: Saving map 'LevelOne' took 1.239
