@@ -3503,3 +3503,1320 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.12-04.33.12:578][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/vegetables/milk" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/milk.uasset" SILENT=true
 [2019.12.12-04.33.12:586][ 66]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/milk8959D97E4D8AAB3A654CF59009ADF943.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/milk.uasset'
 [2019.12.12-04.33.12:674][ 66]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Milk_jug__1_7DADA136420FA554F0A150BF514BABD3.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/Milk_jug__1_.uasset'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk_C:DefaultSceneRoot' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk_C' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.milk:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:ReceiveBeginPlay' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:ReceiveTick' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:DefaultSceneRoot' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:1_Gallon_Milk_Jug_Fillet17' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:1_Gallon_Milk_Jug_Fillet18' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:1_Gallon_Milk_Jug_Fillet23' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:714][685]LogMetaData: Removing '/Game/Models/frozen_section/milk/milk.SKEL_milk_C:UserConstructionScript' ref from Metadata '/Game/Models/frozen_section/vegetables/milk.PackageMetaData'
+[2019.12.12-04.38.38:806][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/milk_label_decalBD63DA6B42C05FE37ED40B845DBD0E6A.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/milk_label_decal.uasset'
+[2019.12.12-04.38.38:822][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/milk_label_decal52A1EEE546E7837A65136190BC9B481D.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/milk_label_decal.uasset'
+[2019.12.12-04.38.38:840][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Milk_jug__1_80E6A65643D749EBCE25E4B0F25848DB.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Milk_jug__1_.uasset'
+[2019.12.12-04.38.38:852][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/milk/milk" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/milk.uasset" SILENT=true
+[2019.12.12-04.38.38:867][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/milk543CE5154CAB5AC0909E75BC97C28CD4.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/milk.uasset'
+[2019.12.12-04.38.38:872][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/vegetables/milk" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/milk.uasset" SILENT=true
+[2019.12.12-04.38.38:883][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/milk9F3E27E1439A59A0F99ECC8A718801AD.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/vegetables/milk.uasset'
+[2019.12.12-04.38.38:896][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/milk/Fillet23Mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet23Mat.uasset" SILENT=true
+[2019.12.12-04.38.38:906][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Fillet23Mat961FB1DA46BBF1EAD25CBAB59724BE42.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet23Mat.uasset'
+[2019.12.12-04.38.38:938][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/1_Gallon_Milk_Jug_Fillet236D342138440AA1018D84C9B3E4967A82.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/1_Gallon_Milk_Jug_Fillet23.uasset'
+[2019.12.12-04.38.38:951][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/milk/Fillet18Mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet18Mat.uasset" SILENT=true
+[2019.12.12-04.38.38:960][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Fillet18MatC7294F84484BA62EF24651903A38D31E.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet18Mat.uasset'
+[2019.12.12-04.38.38:994][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/1_Gallon_Milk_Jug_Fillet18F09680D240F2EFC98A843C8CB34F72FF.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/1_Gallon_Milk_Jug_Fillet18.uasset'
+[2019.12.12-04.38.39:007][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/milk/Fillet17Mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet17Mat.uasset" SILENT=true
+[2019.12.12-04.38.39:017][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Fillet17Mat2F3CCC3449FF018CBFA119931E19CC77.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/Fillet17Mat.uasset'
+[2019.12.12-04.38.39:052][685]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/1_Gallon_Milk_Jug_Fillet175CD1F5784C5334217C87CD8095777F4E.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/milk/1_Gallon_Milk_Jug_Fillet17.uasset'
+[2019.12.12-04.38.40:207][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.12-04.38.40:243][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.12-04.38.40:276][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.12-04.38.40:310][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.12-04.38.40:340][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.12-04.38.40:370][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.12-04.38.40:405][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.12-04.38.40:444][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.12-04.38.40:478][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.12-04.43.38:884][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.12-04.43.40:199][581]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne_Auto5C5BAF1BE454F91BF86F1C7A9EBF30003.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Levels/LevelOne_Auto5.umap'
+[2019.12.12-04.43.40:204][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/LevelOne' took 1.359
+[2019.12.12-04.43.40:204][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.359
+[2019.12.12-04.48.13:524][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../models/eggs/eggs.obj)
+[2019.12.12-04.48.13:606][373]LogFbx: Loading FBX Scene from ../../../../../../models/eggs/eggs.obj
+[2019.12.12-04.48.19:532][373]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-04.48.21:299][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-04.48.21:422][373]LogMaterial: Display: Missing cached shader map for material wire_006135113, compiling. 
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2019.12.12-04.48.24:892][373]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.48.24:910][373]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-04.48.26:973][373]LogStaticMesh: Built static mesh [2.06s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.48.28:062][373]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-04.48.28:062][373]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-04.48.29:122][373]FBXImport: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.12-04.48.29:122][373]FBXImport: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.12-04.48.34:296][643]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-04.48.34:299][643]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-04.48.37:400][831]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.48.44:762][280]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-04.48.44:765][280]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-04.48.44:766][280]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.49.05:136][840]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2019.12.12-04.49.05:172][841]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.49.12:103][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs_mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_mat.uasset" SILENT=true
+[2019.12.12-04.49.12:114][352]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs_mat3ACE4CF949AEE12A917B5AB71C5A14E6.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_mat.uasset'
+[2019.12.12-04.49.12:342][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.12.12-04.49.12:381][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.12-04.49.12:414][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.12-04.49.13:367][403]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/frozen_section/eggs/eggs2_mat.eggs2_mat
+[2019.12.12-04.49.13:370][403]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.13:423][403]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.13:439][403]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.13:455][403]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.13:456][403]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.13:461][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.49.13:655][405]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.49.13:805][410]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2019.12.12-04.49.13:806][410]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.12-04.49.13:806][410]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2019.12.12-04.49.13:806][410]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2019.12.12-04.49.13:806][410]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2019.12.12-04.49.13:840][411]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2019.12.12-04.49.13:840][411]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2019.12.12-04.49.13:840][411]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.49.14:081][417]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.49.14:284][421]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.49.14:284][421]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2019.12.12-04.49.14:284][421]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2019.12.12-04.49.14:586][430]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.49.14:586][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.49.14:586][430]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.14:586][430]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.18:365][722]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.18:384][722]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.18:388][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.49.18:589][728]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.49.18:717][731]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.49.18:721][731]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2019.12.12-04.49.18:742][732]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.49.18:862][735]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.49.19:147][741]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.49.19:160][741]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2019.12.12-04.49.19:187][742]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2019.12.12-04.49.19:486][751]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.49.19:486][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.49.19:486][751]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.19:486][751]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.21:250][864]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.21:268][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.21:268][864]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.49.21:275][864]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.12-04.49.21:487][871]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.49.21:598][874]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.49.21:598][874]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.12-04.49.21:609][874]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2019.12.12-04.49.21:633][875]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.12-04.49.21:633][875]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2019.12.12-04.49.21:633][875]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2019.12.12-04.49.21:633][875]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.49.21:660][876]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.49.21:705][877]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.49.22:036][885]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2019.12.12-04.49.22:048][885]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.49.22:057][885]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2019.12.12-04.49.22:367][895]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.49.22:367][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.49.22:367][895]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.22:367][895]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.36:510][ 79]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.36:563][ 80]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.36:726][ 85]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.49.36:865][ 88]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.12.12-04.49.36:865][ 88]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.49.36:865][ 88]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2019.12.12-04.49.36:876][ 88]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.12-04.49.36:876][ 88]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2019.12.12-04.49.36:876][ 88]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2019.12.12-04.49.36:899][ 89]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2019.12.12-04.49.36:899][ 89]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.49.37:506][106]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.49.37:506][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.49.37:506][106]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.37:506][106]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.42:024][439]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.42:050][440]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.42:252][446]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.49.42:363][449]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.12.12-04.49.42:368][449]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.49.42:379][449]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2019.12.12-04.49.42:398][450]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2019.12.12-04.49.42:398][450]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2019.12.12-04.49.42:400][450]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.12.12-04.49.42:400][450]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.12-04.49.42:416][450]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.12-04.49.43:891][577]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.49.43:891][577]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.49.43:891][577]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.43:891][577]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.47:961][835]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.47:978][835]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.48:036][836]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.48:193][841]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.49.48:326][844]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.12.12-04.49.48:327][844]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.49.48:337][844]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.12-04.49.48:354][845]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.12.12-04.49.48:360][845]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.12.12-04.49.48:360][845]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.49.48:391][846]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.49.48:391][846]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.49.48:986][864]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.49.48:986][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.49.48:986][864]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.48:986][864]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.53:581][156]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.53:598][156]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.53:623][157]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.53:826][164]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.49.53:948][167]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2019.12.12-04.49.53:976][168]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.49.53:976][168]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.12-04.49.53:976][168]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.12-04.49.53:983][168]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.12.12-04.49.53:983][168]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.49.53:983][168]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.49.54:014][169]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.49.54:615][187]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.49.54:615][187]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.49.54:615][187]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.54:615][187]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.49.58:083][411]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.58:100][411]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.49.58:126][412]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.49.58:325][419]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.49.58:447][422]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.12.12-04.49.58:451][422]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.49.58:459][422]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.49.58:480][423]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2019.12.12-04.49.58:480][423]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2019.12.12-04.49.58:480][423]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.49.58:480][423]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.49.58:518][424]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.49.59:114][442]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.49.59:114][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.49.59:114][442]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.49.59:114][442]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.50.02:417][647]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.50.02:440][648]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.50.02:441][648]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.50.02:634][660]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.50.02:762][666]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.12.12-04.50.02:779][667]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.50.02:779][667]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.12.12-04.50.02:794][668]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2019.12.12-04.50.02:794][668]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2019.12.12-04.50.02:810][669]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.12.12-04.50.02:810][669]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.12-04.50.02:810][669]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.12-04.50.03:412][694]LogMaterialEditor: Saving and Compiling material eggs2_mat
+[2019.12.12-04.50.03:854][694]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.50.03:909][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.50.03:918][694]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.50.03:963][694]LogMaterial: Display: Missing cached shader map for material eggs2_mat, compiling. 
+[2019.12.12-04.50.04:085][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 31
+[2019.12.12-04.50.04:205][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 30
+[2019.12.12-04.50.04:228][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2019.12.12-04.50.04:229][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.12-04.50.04:240][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2019.12.12-04.50.04:240][694]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.12-04.50.04:881][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2019.12.12-04.50.04:881][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 28
+[2019.12.12-04.50.04:881][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 27
+[2019.12.12-04.50.04:881][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2019.12.12-04.50.04:881][694]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.50.04:882][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2019.12.12-04.50.04:884][694]TextureStreamingBuild: Display: Compiling optional shaders took 0.656 seconds.
+[2019.12.12-04.50.04:925][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.50.04:925][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.12-04.50.05:661][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2019.12.12-04.50.05:661][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.50.05:661][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.50.05:661][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2019.12.12-04.50.05:687][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs2_mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs2_mat.uasset" SILENT=true
+[2019.12.12-04.50.05:738][694]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs2_mat9B307F7649C5AD27B33998981743973C.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs2_mat.uasset'
+[2019.12.12-04.50.05:757][694]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.50.05:757][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.50.05:757][694]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.50.05:757][694]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.50.08:006][838]LogSlate: Window 'eggs2_mat' being destroyed
+[2019.12.12-04.50.08:009][838]LogSlate: Window 'eggs2_mat' being destroyed
+[2019.12.12-04.50.08:033][838]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.50.11:007][ 27]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.50.18:665][472]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-04.50.21:043][623]LogStaticMesh: Building static mesh eggs2...
+[2019.12.12-04.50.23:109][623]LogStaticMesh: Built static mesh [2.07s] /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-04.50.24:160][623]LogStaticMesh: Warning: eggs2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-04.50.24:160][623]LogStaticMesh: Warning: eggs2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-04.50.58:302][945]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2019.12.12-04.50.58:342][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.51.01:065][ 50]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/frozen_section/eggs/eggs_mat.eggs_mat
+[2019.12.12-04.51.01:069][ 50]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.01:142][ 50]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.01:158][ 50]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.01:182][ 50]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.01:185][ 50]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.51.01:423][ 52]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.51.01:526][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2019.12.12-04.51.01:526][ 55]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2019.12.12-04.51.01:527][ 55]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2019.12.12-04.51.01:530][ 55]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2019.12.12-04.51.01:530][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2019.12.12-04.51.01:530][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.12.12-04.51.01:530][ 55]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2019.12.12-04.51.01:530][ 55]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.51.01:835][ 61]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.51.01:960][ 63]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.12.12-04.51.01:960][ 63]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2019.12.12-04.51.01:994][ 64]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2019.12.12-04.51.02:313][ 71]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.51.02:313][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.51.02:313][ 71]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.02:313][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.06:394][471]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.06:441][472]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.06:442][472]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.06:442][472]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.06:442][472]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.06:617][481]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.51.06:730][486]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.12.12-04.51.06:730][486]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2019.12.12-04.51.06:750][487]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.12-04.51.06:750][487]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.12.12-04.51.06:766][488]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.12.12-04.51.06:766][488]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.12.12-04.51.06:766][488]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.12-04.51.06:781][489]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.12-04.51.15:841][381]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.15:868][382]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.16:065][387]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.51.16:173][389]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.12.12-04.51.16:186][389]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.51.16:211][390]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.51.16:215][390]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.12-04.51.16:223][390]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2019.12.12-04.51.16:223][390]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.12.12-04.51.16:223][390]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.12-04.51.16:257][391]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.12-04.51.16:855][405]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.51.16:855][405]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.51.16:855][405]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.16:855][405]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.21:676][646]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.21:701][647]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.21:702][647]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.21:885][654]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.51.21:958][654]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/frozen_section/eggs/eggs2_mat.eggs2_mat
+[2019.12.12-04.51.21:964][654]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.51.22:078][654]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.51.22:082][654]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.12-04.51.22:106][654]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2019.12.12-04.51.22:138][654]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2019.12.12-04.51.22:149][654]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.51.22:404][657]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2019.12.12-04.51.22:450][658]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2019.12.12-04.51.22:486][659]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2019.12.12-04.51.22:486][659]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2019.12.12-04.51.22:500][659]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2019.12.12-04.51.22:512][659]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2019.12.12-04.51.22:572][660]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2019.12.12-04.51.22:691][662]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.22:706][662]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.22:749][663]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.12.12-04.51.22:753][663]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.12.12-04.51.22:761][663]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.51.22:799][664]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.22:800][664]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.12.12-04.51.22:803][664]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2019.12.12-04.51.22:811][664]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2019.12.12-04.51.22:811][664]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2019.12.12-04.51.22:824][664]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2019.12.12-04.51.22:831][664]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2019.12.12-04.51.22:845][664]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.51.22:845][664]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.51.22:845][664]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.22:845][664]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.22:984][667]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.51.23:203][670]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2019.12.12-04.51.23:263][671]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2019.12.12-04.51.23:267][671]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.51.23:460][674]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2019.12.12-04.51.23:603][677]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.51.23:603][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.51.23:603][677]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.23:603][677]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.33:778][212]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.33:796][212]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.33:821][213]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.34:023][218]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.51.34:156][221]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2019.12.12-04.51.34:156][221]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.51.34:156][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.51.34:170][221]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.12-04.51.34:198][222]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.12.12-04.51.34:198][222]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.51.34:198][222]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.51.34:202][222]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.51.34:823][237]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.51.34:824][237]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.51.34:824][237]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.34:824][237]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.36:259][308]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.36:283][309]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.36:314][312]LogMaterialEditor: Saving and Compiling material eggs_mat
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2019.12.12-04.51.36:969][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.51.36:990][312]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2019.12.12-04.51.37:050][312]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2019.12.12-04.51.37:077][312]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.37:099][312]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2019.12.12-04.51.37:113][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 36
+[2019.12.12-04.51.37:133][312]LogMaterial: Display: Missing cached shader map for material eggs_mat, compiling. 
+[2019.12.12-04.51.37:237][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2019.12.12-04.51.37:237][312]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2019.12.12-04.51.37:237][312]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2019.12.12-04.51.37:276][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2019.12.12-04.51.37:318][312]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2019.12.12-04.51.37:362][312]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2019.12.12-04.51.37:371][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2019.12.12-04.51.37:378][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 28
+[2019.12.12-04.51.37:394][312]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2019.12.12-04.51.37:408][312]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2019.12.12-04.51.37:408][312]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 26
+[2019.12.12-04.51.37:408][312]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 27
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 20
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2019.12.12-04.51.38:098][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2019.12.12-04.51.38:102][312]TextureStreamingBuild: Display: Compiling optional shaders took 0.708 seconds.
+[2019.12.12-04.51.38:142][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.12-04.51.38:855][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2019.12.12-04.51.38:855][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2019.12.12-04.51.38:855][312]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2019.12.12-04.51.38:855][312]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2019.12.12-04.51.38:885][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs_mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_mat.uasset" SILENT=true
+[2019.12.12-04.51.38:906][312]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs_mat9FE9C3094EF4A901FD4185802324BA62.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_mat.uasset'
+[2019.12.12-04.51.40:345][444]LogSlate: Window 'eggs2_mat' being destroyed
+[2019.12.12-04.51.40:349][444]LogSlate: Window 'eggs2_mat' being destroyed
+[2019.12.12-04.51.40:363][444]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.51.40:442][444]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.51.40:538][444]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.51.40:584][444]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.51.47:110][831]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/frozen_section/eggs/eggs3_mat.eggs3_mat
+[2019.12.12-04.51.47:114][831]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.51.47:166][831]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.51.47:182][831]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.47:203][831]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.47:208][831]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.51.47:383][833]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.51.47:515][836]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.51.47:523][836]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.12-04.51.47:532][836]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2019.12.12-04.51.47:558][837]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.12-04.51.47:558][837]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2019.12.12-04.51.47:560][837]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.12.12-04.51.47:560][837]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.51.47:579][837]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.51.47:648][838]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.51.47:988][844]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2019.12.12-04.51.48:001][844]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.51.48:026][845]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.51.48:298][853]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.51.48:298][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.51.48:298][853]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.51.48:298][853]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.51.53:170][241]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.51.53:190][241]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.51.53:193][241]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.51.53:414][248]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.51.53:537][251]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.51.53:537][251]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2019.12.12-04.51.53:537][251]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2019.12.12-04.51.53:565][252]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2019.12.12-04.51.53:565][252]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2019.12.12-04.51.53:565][252]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2019.12.12-04.51.53:565][252]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.51.53:577][252]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2019.12.12-04.51.53:641][254]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.51.53:948][263]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.51.53:948][263]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2019.12.12-04.51.53:968][264]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2019.12.12-04.52.04:156][450]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.04:176][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.04:182][450]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.04:355][455]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.04:509][458]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2019.12.12-04.52.04:536][459]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2019.12.12-04.52.04:537][459]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2019.12.12-04.52.04:537][459]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2019.12.12-04.52.04:537][459]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2019.12.12-04.52.04:537][459]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2019.12.12-04.52.04:537][459]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.52.04:581][460]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.52.04:626][461]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.04:947][468]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.52.04:995][469]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2019.12.12-04.52.05:004][469]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2019.12.12-04.52.05:264][477]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.05:264][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.05:264][477]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.05:264][477]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.08:422][781]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.08:443][781]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.08:443][781]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.08:666][787]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.08:769][789]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2019.12.12-04.52.08:769][789]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.12.12-04.52.08:796][790]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2019.12.12-04.52.08:796][790]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2019.12.12-04.52.08:796][790]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2019.12.12-04.52.08:809][790]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.52.08:837][791]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.12-04.52.08:837][791]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2019.12.12-04.52.08:887][792]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.09:207][799]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.52.09:219][799]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.52.09:251][800]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2019.12.12-04.52.09:522][808]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.09:522][808]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.09:522][808]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.09:522][808]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.13:040][ 46]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.13:057][ 46]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.13:061][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.13:248][ 52]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.13:397][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2019.12.12-04.52.13:397][ 55]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.12.12-04.52.13:403][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2019.12.12-04.52.13:403][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2019.12.12-04.52.13:403][ 55]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2019.12.12-04.52.13:434][ 56]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2019.12.12-04.52.13:434][ 56]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2019.12.12-04.52.13:434][ 56]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.52.13:510][ 58]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.13:819][ 64]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2019.12.12-04.52.13:829][ 64]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2019.12.12-04.52.13:865][ 65]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2019.12.12-04.52.14:137][ 73]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.14:137][ 73]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.14:137][ 73]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.14:137][ 73]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.16:665][236]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.16:682][236]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.16:683][236]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.16:683][236]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.16:683][236]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.16:683][236]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.16:686][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.16:870][242]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.17:014][245]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.52.17:015][245]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2019.12.12-04.52.17:039][246]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2019.12.12-04.52.17:039][246]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.12-04.52.17:039][246]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2019.12.12-04.52.17:074][247]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2019.12.12-04.52.17:074][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2019.12.12-04.52.17:074][247]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.12.12-04.52.17:142][249]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.17:423][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.52.17:454][256]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.52.17:463][256]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2019.12.12-04.52.17:798][267]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.17:798][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.17:798][267]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.17:798][267]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.20:780][491]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.20:800][491]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.20:804][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.20:996][497]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.21:160][501]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2019.12.12-04.52.21:160][501]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.12.12-04.52.21:160][501]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2019.12.12-04.52.21:160][501]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.12-04.52.21:160][501]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2019.12.12-04.52.21:187][502]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.12.12-04.52.21:187][502]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2019.12.12-04.52.21:187][502]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.52.21:262][504]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.21:588][511]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2019.12.12-04.52.21:595][511]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.52.21:625][512]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2019.12.12-04.52.21:927][521]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.21:927][521]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.21:927][521]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.21:927][521]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.23:436][615]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.23:457][615]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.23:457][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.12-04.52.23:465][615]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.12-04.52.23:648][620]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2019.12.12-04.52.23:778][622]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2019.12.12-04.52.23:786][622]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2019.12.12-04.52.23:814][623]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2019.12.12-04.52.23:814][623]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2019.12.12-04.52.23:814][623]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2019.12.12-04.52.23:823][623]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2019.12.12-04.52.23:829][623]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2019.12.12-04.52.23:829][623]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.12.12-04.52.23:894][625]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.12-04.52.24:245][631]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2019.12.12-04.52.24:289][632]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.12-04.52.24:289][632]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2019.12.12-04.52.26:650][871]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.26:694][872]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.26:861][879]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.52.26:990][882]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.12.12-04.52.27:000][882]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.52.27:026][883]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2019.12.12-04.52.27:026][883]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2019.12.12-04.52.27:026][883]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2019.12.12-04.52.27:026][883]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2019.12.12-04.52.27:035][883]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.52.27:056][884]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.52.27:647][901]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.12.12-04.52.27:647][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.12.12-04.52.27:647][901]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.27:647][901]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.34:282][456]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.34:308][457]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.34:512][462]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.52.34:642][466]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2019.12.12-04.52.34:642][466]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.12-04.52.34:642][466]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.52.34:670][467]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.12-04.52.34:670][467]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2019.12.12-04.52.34:673][467]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2019.12.12-04.52.34:680][467]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2019.12.12-04.52.34:688][467]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.52.35:302][486]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.52.35:302][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.52.35:302][486]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.35:302][486]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.37:737][643]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.37:754][643]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.37:779][644]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.37:963][650]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.52.38:114][654]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2019.12.12-04.52.38:117][654]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2019.12.12-04.52.38:117][654]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2019.12.12-04.52.38:117][654]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.12.12-04.52.38:148][655]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.12.12-04.52.38:148][655]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2019.12.12-04.52.38:148][655]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2019.12.12-04.52.38:148][655]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.12.12-04.52.38:772][674]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.12.12-04.52.38:772][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.12.12-04.52.38:772][674]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-04.52.38:772][674]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-04.52.41:837][861]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.41:862][862]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2019.12.12-04.52.41:862][862]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.52.41:862][862]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2019.12.12-04.52.41:862][862]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2019.12.12-04.52.41:863][862]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.12-04.52.41:882][864]LogMaterialEditor: Saving and Compiling material eggs3_mat
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2019.12.12-04.52.42:524][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2019.12.12-04.52.42:547][864]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.42:618][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2019.12.12-04.52.42:618][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2019.12.12-04.52.42:618][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2019.12.12-04.52.42:618][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2019.12.12-04.52.42:618][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2019.12.12-04.52.42:639][864]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.42:660][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.12-04.52.42:664][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2019.12.12-04.52.42:696][864]LogMaterial: Display: Missing cached shader map for material eggs3_mat, compiling. 
+[2019.12.12-04.52.42:792][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2019.12.12-04.52.42:806][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2019.12.12-04.52.42:812][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2019.12.12-04.52.42:827][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 33
+[2019.12.12-04.52.42:846][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2019.12.12-04.52.42:922][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 31
+[2019.12.12-04.52.42:931][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2019.12.12-04.52.42:939][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2019.12.12-04.52.42:947][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2019.12.12-04.52.42:947][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2019.12.12-04.52.42:959][864]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2019.12.12-04.52.42:970][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 26
+[2019.12.12-04.52.42:970][864]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 24
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2019.12.12-04.52.43:634][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2019.12.12-04.52.43:638][864]TextureStreamingBuild: Display: Compiling optional shaders took 0.678 seconds.
+[2019.12.12-04.52.43:677][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.12-04.52.44:423][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2019.12.12-04.52.44:424][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2019.12.12-04.52.44:424][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2019.12.12-04.52.44:424][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2019.12.12-04.52.44:454][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs3_mat" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs3_mat.uasset" SILENT=true
+[2019.12.12-04.52.44:465][864]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs3_mat3A058FC146C7FED4FF6A4BBD738F4726.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs3_mat.uasset'
+[2019.12.12-04.52.45:224][905]LogSlate: Window 'eggs3_mat' being destroyed
+[2019.12.12-04.52.45:228][905]LogSlate: Window 'eggs3_mat' being destroyed
+[2019.12.12-04.52.45:251][905]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.52.46:840][  1]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs3.eggs3
+[2019.12.12-04.52.53:402][314]LogSlate: Window 'eggs3' being destroyed
+[2019.12.12-04.52.53:406][314]LogSlate: Window 'eggs3' being destroyed
+[2019.12.12-04.52.53:407][314]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.53.00:602][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.53.00:829][896]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-04.53.03:654][ 85]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-04.53.09:516][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.53.21:114][291]Cmd: DELETE
+[2019.12.12-04.53.21:114][291]Cmd: ACTOR DELETE
+[2019.12.12-04.53.21:667][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-04.53.21:707][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.12-04.53.21:708][291]LogEditorActor: Deleted 1 Actors (0.594 secs)
+[2019.12.12-04.53.23:124][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.53.39:912][428]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-04.53.44:001][670]LogSlate: Window 'eggs2' being destroyed
+[2019.12.12-04.53.44:005][670]LogSlate: Window 'eggs2' being destroyed
+[2019.12.12-04.53.44:006][670]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.53.47:157][868]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-04.53.51:095][163]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-04.54.00:783][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.54.11:446][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.54.29:051][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.54.45:581][517]Cmd: DELETE
+[2019.12.12-04.54.45:581][517]Cmd: ACTOR DELETE
+[2019.12.12-04.54.45:613][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-04.54.45:648][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.12.12-04.54.45:648][517]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2019.12.12-04.54.47:563][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.54.47:718][653]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-04.56.07:801][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.56.14:929][417]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.12-04.56.16:050][479]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1749)].
+[2019.12.12-04.56.16:114][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.12-04.56.17:478][479]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne_Auto6534456034182F20972C55188DCB4EA4C.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Levels/LevelOne_Auto6.umap'
+[2019.12.12-04.56.17:483][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/LevelOne' took 1.401
+[2019.12.12-04.56.17:484][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.401
+[2019.12.12-04.56.17:487][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/frozen_section/eggs/eggs] ([1] browsable assets)...
+[2019.12.12-04.56.17:497][479]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs]
+[2019.12.12-04.56.17:497][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/frozen_section/eggs/eggs]
+[2019.12.12-04.56.17:716][479]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs_Auto6942CF4DA47E1AEE95C8D3C86FAEFA575.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Models/frozen_section/eggs/eggs_Auto6.uasset'
+[2019.12.12-04.56.17:717][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/frozen_section/eggs/eggs2] ([1] browsable assets)...
+[2019.12.12-04.56.17:727][479]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2]
+[2019.12.12-04.56.17:727][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/frozen_section/eggs/eggs2]
+[2019.12.12-04.56.17:949][479]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs2_Auto60641238D4125200B9C31318682229EFF.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Models/frozen_section/eggs/eggs2_Auto6.uasset'
+[2019.12.12-04.56.17:950][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/frozen_section/eggs/eggs3] ([1] browsable assets)...
+[2019.12.12-04.56.17:960][479]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/frozen_section/eggs/eggs3.eggs3]
+[2019.12.12-04.56.17:960][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/frozen_section/eggs/eggs3]
+[2019.12.12-04.56.18:179][479]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs3_Auto6636DAE954E7AE4BA76FB7AA598210E7A.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Models/frozen_section/eggs/eggs3_Auto6.uasset'
+[2019.12.12-04.56.18:207][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/frozen_section/eggs/egg] ([1] browsable assets)...
+[2019.12.12-04.56.18:207][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/frozen_section/eggs/egg]
+[2019.12.12-04.56.18:215][479]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/egg_Auto6077F9ED1488C2F3CE7B760912A70EDCB.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/Autosaves/Game/Models/frozen_section/eggs/egg_Auto6.uasset'
+[2019.12.12-04.56.18:216][479]LogFileHelpers: Auto-saving content packages took 0.730
+[2019.12.12-04.56.26:843][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.12.12-04.56.26:843][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.eggs_1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:843][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.SKEL_eggs_1_C' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:843][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.eggs_1_C' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:844][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.eggs_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:844][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.eggs_1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:844][105]LogMetaData: Removing '/Game/Models/frozen_section/eggs/eggs_1.eggs_1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Models/frozen_section/eggs/egg.PackageMetaData'
+[2019.12.12-04.56.26:882][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs_1" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_1.uasset" SILENT=true
+[2019.12.12-04.56.26:889][105]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs_101BB2C7A4B296354C505148486137035.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs_1.uasset'
+[2019.12.12-04.56.27:113][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.12.12-04.56.27:152][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.12-04.56.27:185][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.12-04.56.30:034][252]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Models/frozen_section/eggs/eggs_1.eggs_1
+[2019.12.12-04.56.42:313][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.57.01:094][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.57.01:188][ 21]LogSlate: Window 'eggs_1' being destroyed
+[2019.12.12-04.57.01:192][ 21]LogSlate: Window 'eggs_1' being destroyed
+[2019.12.12-04.57.01:206][ 21]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.57.01:271][ 21]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.57.09:948][518]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-04.57.55:700][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.12-04.57.58:317][837]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-04.57.58:337][837]LogSlate: Window 'eggs2' being destroyed
+[2019.12.12-04.57.58:391][837]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.57.58:415][837]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Models/frozen_section/eggs/eggs_1.eggs_1
+	Asset Name: /Game/Models/frozen_section/eggs/eggs3.eggs3
+	Asset Name: /Game/Models/frozen_section/eggs/eggs2.eggs2
+	Asset Name: /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.57.58:877][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.12.12-04.58.00:389][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.12-04.58.00:424][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.12-04.58.00:506][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.12-04.58.23:876][935]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../models/eggs/eggs.obj)
+[2019.12.12-04.58.23:950][935]LogFbx: Loading FBX Scene from ../../../../../../models/eggs/eggs.obj
+[2019.12.12-04.58.29:918][935]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-04.58.32:147][935]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-04.58.32:261][935]LogMaterial: Display: Missing cached shader map for material wire_006135113, compiling. 
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.12.12-04.58.35:569][935]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.12.12-04.58.35:570][935]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2019.12.12-04.58.35:570][935]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2019.12.12-04.58.35:570][935]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.12.12-04.58.35:585][935]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-04.58.37:521][935]LogStaticMesh: Built static mesh [1.94s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.58.38:580][935]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-04.58.38:580][935]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-04.58.39:614][935]FBXImport: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.12.12-04.58.39:614][935]FBXImport: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.12.12-04.58.45:920][249]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-04.58.45:924][249]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-04.59.08:124][699]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.59.23:269][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.59.23:317][654]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-04.59.23:321][654]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-04.59.23:322][654]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-04.59.24:901][766]LogActorFactory: Actor Factory created eggs
+[2019.12.12-04.59.27:329][969]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-04.59.30:803][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.12-04.59.32:755][228]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-04.59.32:763][228]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-04.59.32:783][228]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-04.59.32:839][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.12-04.59.34:737][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-04.59.36:865][567]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-04.59.57:964][887]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-04.59.59:919][887]LogStaticMesh: Built static mesh [1.95s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-05.00.00:842][887]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-05.00.00:842][887]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-05.00.09:145][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.00.10:866][531]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.00.12:484][643]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.00.13:974][732]Cmd: DELETE
+[2019.12.12-05.00.13:974][732]Cmd: ACTOR DELETE
+[2019.12.12-05.00.14:004][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.00.14:037][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.12-05.00.14:037][732]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.12.12-05.00.18:512][958]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-05.00.42:471][535]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-05.00.44:400][535]LogStaticMesh: Built static mesh [1.93s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-05.00.45:302][535]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-05.00.45:302][535]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-05.00.52:113][955]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.00.53:755][ 73]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.00.55:697][191]Cmd: DELETE
+[2019.12.12-05.00.55:697][191]Cmd: ACTOR DELETE
+[2019.12.12-05.00.55:727][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.00.55:761][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.12-05.00.55:761][191]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.12.12-05.01.00:011][406]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-05.01.15:598][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset" SILENT=true
+[2019.12.12-05.01.15:814][421]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs381891CF46896F5152AEC2B6407A440F.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset'
+[2019.12.12-05.01.18:014][572]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-05.01.19:961][572]LogStaticMesh: Built static mesh [1.95s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-05.01.20:812][572]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-05.01.20:812][572]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-05.01.21:805][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset" SILENT=true
+[2019.12.12-05.01.22:169][630]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs27CDE8A84C678DAAC16B5F870A0414B4.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset'
+[2019.12.12-05.01.33:853][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.01.35:608][474]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.01.36:699][549]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.01.38:629][665]Cmd: DELETE
+[2019.12.12-05.01.38:629][665]Cmd: ACTOR DELETE
+[2019.12.12-05.01.38:659][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.01.38:692][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.12-05.01.38:692][665]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.12.12-05.01.44:216][963]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-05.01.57:235][828]LogStaticMesh: Building static mesh eggs...
+[2019.12.12-05.01.59:173][828]LogStaticMesh: Built static mesh [1.94s] /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-05.01.59:647][828]LogStaticMesh: Warning: eggs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.12.12-05.01.59:647][828]LogStaticMesh: Warning: eggs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.12.12-05.02.01:539][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset" SILENT=true
+[2019.12.12-05.02.01:756][944]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs69C40E4A4120FE91A1B22EBF4FCC2C93.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset'
+[2019.12.12-05.02.05:544][185]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.02.07:239][305]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.02.13:159][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.02.24:806][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.02.49:125][305]Cmd: DELETE
+[2019.12.12-05.02.49:125][305]Cmd: ACTOR DELETE
+[2019.12.12-05.02.49:155][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.02.49:188][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.12-05.02.49:188][305]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.12.12-05.02.50:859][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Freezer3)
+[2019.12.12-05.02.52:720][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.02.56:530][  2]Cmd: DELETE
+[2019.12.12-05.02.56:530][  2]Cmd: ACTOR DELETE
+[2019.12.12-05.02.56:561][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.02.56:595][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.12-05.02.56:596][  2]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.12.12-05.03.07:684][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.12-05.03.14:098][865]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-05.03.15:430][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset" SILENT=true
+[2019.12.12-05.03.15:650][981]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggsB4E91CA94A21E40058BC0FB8E2263BC8.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs.uasset'
+[2019.12.12-05.03.17:867][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.12-05.03.19:858][145]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-05.03.19:931][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.12-05.03.22:025][338]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-05.03.22:028][338]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-05.03.22:042][338]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-05.03.28:373][996]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs.eggs
+[2019.12.12-05.03.47:772][ 85]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-05.03.47:775][ 85]LogSlate: Window 'eggs' being destroyed
+[2019.12.12-05.03.47:790][ 85]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-05.04.02:922][545]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs2.eggs2
+[2019.12.12-05.04.07:479][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs2" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs2.uasset" SILENT=true
+[2019.12.12-05.04.08:235][822]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs2581873D4460D71FBA04CC6B9CDE33E4E.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs2.uasset'
+[2019.12.12-05.04.09:826][977]LogSlate: Window 'eggs2' being destroyed
+[2019.12.12-05.04.09:829][977]LogSlate: Window 'eggs2' being destroyed
+[2019.12.12-05.04.09:833][977]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-05.04.11:989][151]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/frozen_section/eggs/eggs3.eggs3
+[2019.12.12-05.04.17:414][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/frozen_section/eggs/eggs3" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs3.uasset" SILENT=true
+[2019.12.12-05.04.18:163][519]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/eggs3EE82675543151CDC8D9DDE8E48924B64.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Models/frozen_section/eggs/eggs3.uasset'
+[2019.12.12-05.04.19:657][679]LogSlate: Window 'eggs3' being destroyed
+[2019.12.12-05.04.19:660][679]LogSlate: Window 'eggs3' being destroyed
+[2019.12.12-05.04.19:674][679]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-05.04.37:487][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.04.37:664][517]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-05.04.38:564][598]LogActorFactory: Actor Factory created eggs2
+[2019.12.12-05.04.42:320][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.04.57:229][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.05.34:370][352]Cmd: DELETE
+[2019.12.12-05.05.34:370][352]Cmd: ACTOR DELETE
+[2019.12.12-05.05.34:399][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.05.34:439][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.12-05.05.34:439][352]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2019.12.12-05.05.36:204][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.05.45:900][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.05.52:267][315]Cmd: DELETE
+[2019.12.12-05.05.52:267][315]Cmd: ACTOR DELETE
+[2019.12.12-05.05.52:296][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-05.05.52:329][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.12-05.05.52:329][315]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.12.12-05.05.53:668][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.06.09:304][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.06.20:258][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.06.25:744][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.06.46:085][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.06.59:140][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.07.02:411][104]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.07.03:127][160]LogActorFactory: Actor Factory created eggs
+[2019.12.12-05.07.05:300][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.07.21:686][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.08.15:052][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.08.15:251][399]LogActorFactory: Actor Factory created eggs3
+[2019.12.12-05.08.18:322][676]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-05.08.22:883][ 34]LogActorFactory: Actor Factory created eggs3
+[2019.12.12-05.08.26:198][306]LogActorFactory: Actor Factory created eggs3
+[2019.12.12-05.08.27:346][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.08.41:225][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.09.24:827][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.09.29:600][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.09.37:227][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.09.46:237][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-05.09.46:350][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-05.09.46:383][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.12-05.09.47:737][691]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne1C39EA7A44BFA93B3D6DB984F6FD8F21.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne.umap'
+[2019.12.12-05.09.47:770][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne_BuiltData" FILE="../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset" SILENT=true
+[2019.12.12-05.09.47:984][691]LogSavePackage: Moving '../../../../../../Repositories/CS-328-Game/CS328Team11/Saved/LevelOne_BuiltData4E11696F43C226EA6F5AB9B1E55DC2AA.tmp' to '../../../../../../Repositories/CS-328-Game/CS328Team11/Content/Levels/LevelOne_BuiltData.uasset'
+[2019.12.12-05.10.07:209][411]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-05.10.08:222][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
